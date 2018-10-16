@@ -1,0 +1,123 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "android-camera-permission": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-custom-config": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-admob-free": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-audioinput": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-crosswalk-webview": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-file-opener2": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-firebase": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_IOS": "AIzaSyAqy8j9W2qYSsLg-rzk0Bg2UdBvFZJVeYw",
+      "LOCATION_WHEN_IN_USE_DESCRIPTION": "Show your location on the map",
+      "LOCATION_ALWAYS_USAGE_DESCRIPTION": "Trace your location on the map",
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-googleplus": {
+      "REVERSED_CLIENT_ID": "com.googleusercontent.apps.1040008853766-j1misvip5jil3580hlqft1h4463t0b2t",
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-media": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-nativeaudio": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-accountkit": {
+      "APP_ID": "814520985371944",
+      "APP_NAME": "social app in ionic 3",
+      "CLIENT_TOKEN": "f9ad6dac276bc6d9b5fc9e075ee4e048",
+      "API_VERSION": "v1.1",
+      "PACKAGE_NAME": "com.io.ionsocial"
+    }
+  },
+  "dependent_plugins": {
+    "com.googlemaps.ios": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-admob-sdk": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-promise-polyfill": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.io.ionsocial"
+    }
+  }
+}
